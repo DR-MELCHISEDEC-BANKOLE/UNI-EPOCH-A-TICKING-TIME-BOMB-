@@ -1,4 +1,4 @@
-### UNIX EPOCH, A TICKING TIME BOMB?
+### UNIX EPOCH, A TICKING COMPUTING TIME BOMB?
 
 For decades, the Unix epoch has served as the silent backbone of our digital world. A simple counter, ticking away the seconds since January 1st, 1970, it seamlessly manages timestamps, schedules tasks, and keeps our computers in sync with the flow of time. But unbeknownst to many, this trusty sentinel harbors a hidden vulnerability – a ticking time bomb set to detonate in 2038.
 
